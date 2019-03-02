@@ -1,0 +1,3 @@
+[submodule "TestSubProjectRepo"]
+	path = TestSubProjectRepo
+	url = git@github.com:LJ2013/TestSubProjectRepo.git
